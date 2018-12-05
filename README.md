@@ -15,7 +15,7 @@
 
 该文件夹下存放着控制台版本推箱子
 C语言的控制台游戏推箱子，创新点在于实现了连续撤回及地图编辑器的功能。
-
+![初始界面](https://github.com/Sirichaofeng/tuixiangzi/blob/master/image/control/init.png)
 
 ### tuixiangzi-EGE
 
