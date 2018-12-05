@@ -20,7 +20,7 @@ C语言的控制台游戏推箱子，创新点在于实现了连续撤回及地�
 ![操作说明](https://github.com/Sirichaofeng/tuixiangzi/blob/master/image/control/caozuoshuoming.png)
 ![游戏界面](https://github.com/Sirichaofeng/tuixiangzi/blob/master/image/control/game.png)
 ![暂停界面](https://github.com/Sirichaofeng/tuixiangzi/blob/master/image/control/pause.png)
-![自定义界面](https://github.com/Sirichaofeng/tuixiangzi/blob/master/image/control/caozuoshuoming.png)
+![自定义界面](https://github.com/Sirichaofeng/tuixiangzi/blob/master/image/control/custom.png)
 
 ### tuixiangzi-EGE
 
