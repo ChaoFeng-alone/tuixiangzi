@@ -34,6 +34,7 @@ render.cpp|程序渲染函数所在文件
 ![暂停界面](https://github.com/Sirichaofeng/tuixiangzi/blob/master/image/control/pause.png)
 ![自定义说明界面](https://github.com/Sirichaofeng/tuixiangzi/blob/master/image/control/custom.png)
 ![自定义界面](https://github.com/Sirichaofeng/tuixiangzi/blob/master/image/control/custommap.png)
+![流程图](https://github.com/Sirichaofeng/tuixiangzi/blob/master/image/control/liuchengtu.png)
 
 ### tuixiangzi-EGE
 
