@@ -15,6 +15,18 @@
 
 该文件夹下存放着控制台版本推箱子
 C语言的控制台游戏推箱子，创新点在于实现了连续撤回及地图编辑器的功能。
+
+代码文件：
+文件名|说明
+--|--:
+head.h|项目头文件，函数申明
+main.cpp|程序入口main()函数所在文件
+init.cpp|程序初始化init()函数所在文件
+event.cpp|程序事件判定函数所在文件
+update.cpp|程序数据更新，如文件读取等函数所在文件
+render.cpp|程序渲染函数所在文件
+
+
 ![初始界面](https://github.com/Sirichaofeng/tuixiangzi/blob/master/image/control/init.png)
 ![开始游戏界面](https://github.com/Sirichaofeng/tuixiangzi/blob/master/image/control/sence1.png)
 ![操作说明](https://github.com/Sirichaofeng/tuixiangzi/blob/master/image/control/caozuoshuoming.png)
