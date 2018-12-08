@@ -84,7 +84,7 @@ C语言的控制台游戏推箱子，创新点在于实现了连续撤回及地�
 
 #### 流程图
 
-![流程图](https://github.com/Sirichaofeng/tuixiangzi/blob/master/image/control/liuchengtu.png)
+![流程图](https://github.com/Sirichaofeng/tuixiangzi/blob/master/image/ege/liuchengtu.png)
 
 ### tuixiangzi-EasyX
 
