@@ -70,7 +70,7 @@ C语言的控制台游戏推箱子，创新点在于实现了连续撤回及地�
 
 ![游戏界面](https://github.com/Sirichaofeng/tuixiangzi/blob/master/image/ege/game.png)
 
-#### 暂停
+#### 暂停界面
 
 ![暂停界面](https://github.com/Sirichaofeng/tuixiangzi/blob/master/image/ege/pause.png)
 
