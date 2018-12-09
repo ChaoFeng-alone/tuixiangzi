@@ -1,0 +1,47 @@
+﻿  render.cpp
+c:\users\administrator\desktop\tuixiangzi\tuixiangzi-ege\render.cpp(75): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\tuixiangzi\tuixiangzi-ege\render.cpp(99): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\tuixiangzi\tuixiangzi-ege\render.cpp(102): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\tuixiangzi\tuixiangzi-ege\render.cpp(168): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\tuixiangzi\tuixiangzi-ege\render.cpp(301): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\tuixiangzi\tuixiangzi-ege\render.cpp(304): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\administrator\desktop\tuixiangzi\tuixiangzi-ege\render.cpp(394): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+graphics17.lib(color.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(color.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(egecontrolbase.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(egecontrolbase.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(egegapi.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(egegapi.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(graphics.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(graphics.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(image.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(image.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(logo.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(logo.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(adler32.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(adler32.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(compress.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(compress.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(crc32.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(crc32.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(deflate.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(deflate.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(inffast.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(inffast.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(inflate.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(inflate.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(inftrees.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(inftrees.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(png.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(png.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(pngerror.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(pngerror.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(pngget.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(pngget.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(pngmem.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(pngmem.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(pngread.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(pngread.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(pngrio.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(pngrio.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(pngrtran.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(pngrtran.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(pngrutil.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(pngrutil.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(pngset.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(pngset.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(pngtrans.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(pngtrans.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(pngwio.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(pngwio.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(pngwrite.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(pngwrite.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(pngwtran.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(pngwtran.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(pngwutil.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(pngwutil.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(trees.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(trees.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(uncompr.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(uncompr.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(zutil.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(zutil.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+graphics17.lib(music.obj) : warning LNK4099: 未找到 PDB“graphics17.pdb”(使用“graphics17.lib(music.obj)”或在“C:\Users\Administrator\Desktop\tuixiangzi\Debug\graphics17.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  tuixiangzi-ege.vcxproj -> C:\Users\Administrator\Desktop\tuixiangzi\Debug\tuixiangzi-ege.exe
